@@ -1,0 +1,35 @@
+body {
+  font-family: 'Kavivanar';font-size: 22px;
+  background-image: url("images/surfaikau.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: darkorange;
+  text-align: center;
+}
+
+h1, h2 {
+  font-size: 100px;
+}
+
+
+.surf-img {
+  display: inline;
+  padding-top: 13px;
+  padding-bottom: 15px;
+  padding-left: 25px;
+  float: left;
+  width: 300px;
+}
+
+.surf {
+  border-radius: 10px;
+  display: inline;
+  float: left;
+  background-color: white;
+  margin: 10px;
+  width: 350px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
